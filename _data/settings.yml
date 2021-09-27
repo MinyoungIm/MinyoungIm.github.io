@@ -187,12 +187,12 @@ portfolio-items:
       - type: "design"
     
   - image : "assets/images/portfolio/brbr.png"
-    url: "#"
+    url: "https://github.com/seowonme/public-parking3"
     portfolio-type:
       - type: "development"
       
   - image : "assets/images/portfolio/after.png"
-    url: "#"
+    url: "https://github.com/MinyoungIm/GROOVL1N.git"
     portfolio-type:
       - type: "design"
       
