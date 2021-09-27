@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: 임민영
 image: assets/images/about/author.png
 # signature: assets/images/about/signature.png
 ---
