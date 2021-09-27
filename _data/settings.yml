@@ -40,8 +40,8 @@ hero:
   hero-title: 안녕하세요 <br> 도전하는 개발자 <br> 임민영입니다.
 
 social:
-- {icon: "ti-github", link: "#"}
-# - {icon: "ti-instagram", link: "#"}
+- {icon: "ti-github", link: "https://github.com/MinyoungIm"}
+- {icon: "ti-notion", link: "#"}
 # - {icon: "ti-dribbble", link: "#"}
 # - {icon: "ti-twitter", link: "#"}
 
@@ -94,10 +94,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: JAVA, color: '#fdb157', value: '70%'}
+- {name: Spring Boot, color: '#9473e6', value: '70%'}
+- {name: HTML5, color: '#bdecf6', value: '90%'}
+- {name: CSS3, color: '#ffbcaa', value: '80%'}
 
 
 #-------------------------------
