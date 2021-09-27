@@ -6,13 +6,4 @@ image: assets/images/about/author.png
 # signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+국비지원 퍼블리셔과정 수료 후 퍼블리셔로 재직하던 중에 개발자와 협업으로 서비스 디자인 리뉴얼 작업을 진행했습니다. 그때 개발자들과 소통하면서 개발에 흥미를 가지게 되었고 퇴직이후 다시 퍼블리셔를 준비하던 중 KH정보교육원에서 개발자과정을 수료하게되었습니다.
