@@ -105,9 +105,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: 퍼블리셔, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+# - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+# - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -115,10 +115,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: KH정보교육원 웹개발과정 수료, date: '2006', organization: 'Masassusets Institute of Technology'}
+- {name: 더 조은 아카데미 UI/UX과정 수료, date: '2004', organization: 'Harvard University'}
+- {name: 배재대학교 일본학과 졸업, date: '2000', organization: 'Cardiff School'}
+- {name: 용인정보고등학교 졸업, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
@@ -152,13 +152,13 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/todolist.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/brbr.png"
     url: "#"
     
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/after.png"
     url: "#"
     
   - image : "assets/images/portfolio/item-4.png"
