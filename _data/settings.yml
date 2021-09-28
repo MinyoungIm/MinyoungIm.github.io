@@ -196,7 +196,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/board.png"
+  - image : "assets/images/portfolio/board.PNG"
     url: "https://github.com/MinyoungIm/board"
     portfolio-type:
       - type: "development"
