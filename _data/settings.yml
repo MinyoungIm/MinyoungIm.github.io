@@ -7,7 +7,7 @@ author: themefisher
 description: this is meta description
 email: im.minyoung@email.com
 phone: +82 010 2871 7165
-address: 경기도 용인시 처인구 양지면 
+GitHub: https://github.com/MinyoungIm
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -51,10 +51,11 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  저는 개발에 대한 흥미를 열정으로 발전시키는 개발자입니다. 퍼블리셔로 재직하고 있을 때 프로젝트에 참여하면서 개발자들과 소통을 하면서 코드를 작성하고 기능이 실행되는 것에 매력을 느껴 개발에 대해 흥미를 느껴 웹개발을 배우게 되었습니다.
+
 
 blurb-btn-link: '/about'
-blurb-btn-name: 자세히 알아보기
+blurb-btn-name: 자기소개 보기
 
 
 # About Page
@@ -105,7 +106,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: 퍼블리셔, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+- {name: 퍼블리셔, icon: 'icon-1.png', date: '2018년 9월 - 2019년 4월', organization: 'WEBEX'}
 # - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
 # - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
@@ -115,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: KH정보교육원 웹개발과정 수료, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: 더 조은 아카데미 UI/UX과정 수료, date: '2004', organization: 'Harvard University'}
-- {name: 배재대학교 일본학과 졸업, date: '2000', organization: 'Cardiff School'}
-- {name: 용인정보고등학교 졸업, date: '1998', organization: 'Cardiff School'}
+- {name: KH정보교육원 웹개발과정 수료, date: '2021', organization: 'Masassusets Institute of Technology'}
+- {name: 더 조은 아카데미 UI/UX과정 수료, date: '2018', organization: 'Harvard University'}
+- {name: 배재대학교 일본학과 졸업, date: '2014', organization: 'Cardiff School'}
+- {name: 용인정보고등학교 졸업, date: '2010', organization: 'Cardiff School'}
 
 
 #-------------------------------
