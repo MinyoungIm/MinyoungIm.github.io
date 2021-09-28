@@ -182,43 +182,50 @@ portfolio-label:
 portfolio-items:
   - image : "assets/images/portfolio/todolist.png"
     url: "#"
-    description: 'ddd'
+    description: '기본적인 CRUD를 위한 todolist'
     portfolio-type:
       - type: "development"
       - type: "design"
 
   - image : "assets/images/portfolio/brbr.png"
     url: "https://github.com/seowonme/public-parking3"
+    description: '주차장 정보제공 서비스 개발 참여'
     portfolio-type:
       - type: "development"
       
   - image : "assets/images/portfolio/after.png"
     url: "https://github.com/MinyoungIm/GROOVL1N.git"
+    description: '기존 웹페이지 리디자인'
     portfolio-type:
       - type: "design"
       
   - image : "assets/images/portfolio/board.PNG"
     url: "https://github.com/MinyoungIm/board"
+    description: 'jpa공부를 위한 게시판'
     portfolio-type:
       - type: "development"
       
   - image : "assets/images/portfolio/tom.png"
     url: "#"
+    description: '반응형 웹페이지 리디자인'
     portfolio-type:
       - type: "design"
       
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
+    description: 'ddd'
     portfolio-type:
       - type: "design"
       
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
+    description: 'ddd'
     portfolio-type:
       - type: "branding"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
+    description: 'ddd'
     portfolio-type:
       - type: "design"
       - type: "illustration"
@@ -226,6 +233,7 @@ portfolio-items:
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
+    description: 'ddd'
     portfolio-type:
       - type: "illustration"
 
