@@ -185,7 +185,8 @@ portfolio-items:
     portfolio-type:
       - type: "development"
       - type: "design"
-    
+    description: "ddd"
+
   - image : "assets/images/portfolio/brbr.png"
     url: "https://github.com/seowonme/public-parking3"
     portfolio-type:
@@ -201,10 +202,10 @@ portfolio-items:
     portfolio-type:
       - type: "development"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/portfolio/tom.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "design"
       
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
