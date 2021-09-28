@@ -182,10 +182,10 @@ portfolio-label:
 portfolio-items:
   - image : "assets/images/portfolio/todolist.png"
     url: "#"
+    description: 'ddd'
     portfolio-type:
       - type: "development"
       - type: "design"
-    description: "ddd"
 
   - image : "assets/images/portfolio/brbr.png"
     url: "https://github.com/seowonme/public-parking3"
