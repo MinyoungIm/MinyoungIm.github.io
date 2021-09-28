@@ -107,7 +107,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: 퍼블리셔, icon: 'icon-1.png', date: '2018년 9월 - 2019년 4월', organization: 'WEBEX'}
+- {name: 퍼블리셔, icon: 'icon-1.png', date: '2018년 9월 - 2019년 4월', organization: '씨아이엔텍'}
 # - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
 # - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
