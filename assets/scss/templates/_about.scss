@@ -53,3 +53,18 @@
     right: -100px;
   }
 }
+
+// 이력서보기 추가 css
+
+.resume {
+  margin: 5px;
+  padding: 10px 20px;
+  font-weight: 700;
+  color: #41228e;
+}
+
+.resume:focus, .resume:hover {
+  color: #fff;
+  background-color: #41228e;
+  border-radius: 5px;
+}
