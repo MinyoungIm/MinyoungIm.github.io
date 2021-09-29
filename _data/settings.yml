@@ -117,10 +117,10 @@ experience:
 
 education-title: Education
 education:
-- {name: KH정보교육원 웹개발과정 수료, date: '2021', organization: 'Masassusets Institute of Technology'}
-- {name: 더 조은 아카데미 UI/UX과정 수료, date: '2018', organization: 'Harvard University'}
-- {name: 배재대학교 일본학과 졸업, date: '2014', organization: 'Cardiff School'}
-- {name: 용인정보고등학교 졸업, date: '2010', organization: 'Cardiff School'}
+- {name: KH정보교육원 웹개발과정 수료, date: '2021', organization: ''}
+- {name: 더 조은 아카데미 UI/UX과정 수료, date: '2018', organization: ''}
+- {name: 배재대학교 일본학과 졸업, date: '2014', organization: ''}
+- {name: 용인정보고등학교 졸업, date: '2010', organization: ''}
 
 
 #-------------------------------
