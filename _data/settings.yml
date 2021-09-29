@@ -217,13 +217,13 @@ portfolio-items:
     url: "#"
     description: '작업중'
     portfolio-type:
-      - type: "development"
+      - type: "inging"
       
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     description: '작업중'
     portfolio-type:
-      - type: "development"
+      - type: "inging"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
@@ -231,13 +231,13 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
-      - type: "development"
+      - type: "inging"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
     description: '작업중'
     portfolio-type:
-      - type: "development"
+      - type: "inging"
 
 
 #-------------------------------
