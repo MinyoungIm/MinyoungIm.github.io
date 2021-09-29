@@ -155,19 +155,19 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/todolist.png"
-    url: "#"
+    url: "https://github.com/MinyoungIm/todolist.git"
     
   - image : "assets/images/portfolio/brbr.png"
     url: "https://github.com/seowonme/public-parking3"
     
+  - image : "assets/images/portfolio/board.PNG"
+    url: "https://github.com/MinyoungIm/board"
+    
   - image : "assets/images/portfolio/after.png"
-    url: "#"
+    url: "https://github.com/MinyoungIm/GROOVL1N.git"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image : "assets/images/portfolio/tom.png"
+    url: "https://github.com/MinyoungIm/responsive.git""
 
 
 # Portfolio Page
@@ -183,7 +183,7 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/todolist.png"
-    url: "#"
+    url: "https://github.com/MinyoungIm/todolist.git"
     description: '기본적인 CRUD를 위한 todolist'
     portfolio-type:
       - type: "development"
@@ -217,13 +217,13 @@ portfolio-items:
     url: "#"
     description: '작업중'
     portfolio-type:
-      - type: "design"
+      - type: "development"
       
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     description: '작업중'
     portfolio-type:
-      - type: "branding"
+      - type: "development"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
@@ -231,13 +231,13 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
-      - type: "branding"
+      - type: "development"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
-    description: 'ddd'
+    description: '작업중'
     portfolio-type:
-      - type: "illustration"
+      - type: "development"
 
 
 #-------------------------------
