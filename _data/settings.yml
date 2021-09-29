@@ -55,7 +55,7 @@ blurb:
 
 
 
-blurb-btn-link: 'assets/images/about/resume_minyoung.pdf'
+blurb-btn-link: '../assets/images/about/resume_minyoung.pdf'
 blurb-btn-name: 자기소개 보기
 
 
