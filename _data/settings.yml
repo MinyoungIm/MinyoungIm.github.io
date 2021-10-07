@@ -213,31 +213,31 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    description: '작업중'
-    portfolio-type:
-      - type: "inging"
+  # - image : "assets/images/portfolio/item-5.png"
+  #   url: "#"
+  #   description: '작업중'
+  #   portfolio-type:
+  #     - type: "inging"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    description: '작업중'
-    portfolio-type:
-      - type: "inging"
+  # - image : "assets/images/portfolio/item-1.png"
+  #   url: "#"
+  #   description: '작업중'
+  #   portfolio-type:
+  #     - type: "inging"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    description: '작업중'
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "inging"
+  # - image : "assets/images/portfolio/item-3.png"
+  #   url: "#"
+  #   description: '작업중'
+  #   portfolio-type:
+  #     - type: "design"
+  #     - type: "illustration"
+  #     - type: "inging"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    description: '작업중'
-    portfolio-type:
-      - type: "inging"
+  # - image : "assets/images/portfolio/item-7.png"
+  #   url: "#"
+  #   description: '작업중'
+  #   portfolio-type:
+  #     - type: "inging"
 
 
 #-------------------------------
